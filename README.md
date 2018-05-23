@@ -8,6 +8,7 @@ APPLE      Rejected  (P is repeated)
 CUCUMBER   Rejected  (CU is repeated)
 ONION      Accepted  (ON is not immediately repeated)
 APRICOT    Accepted
+COSCOS     Rejected  (COS is repeated)
 ```
 
 # Goals
